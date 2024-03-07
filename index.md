@@ -8,9 +8,13 @@ layout: page
 
 ### Biography
 
-I am a undergraduate student at **Shandong University** (Major in computer science and technology, GPA: 92.1/100, rank: 3/52). <br>
-I expect to enroll in 2024 fall phd  in **Nanjing University**, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). <br>
+I am a undergraduate student at **Shandong University** (Major in computer science and technology, GPA: 92.1/100, rank: 3/52). 
+<br>
+I expect to enroll in 2024 fall phd  in **Nanjing University**, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). 
+<br>
 I am also working as a research intern in [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2024.01—now).
+<br>
+My research interests lies at the computer vision and multimodal, including Video Understanding and Vision-Language Representation Learning.
 
 <br>
 
@@ -28,15 +32,6 @@ I am also working as a research intern in [<font color="#006ab1">Shanghai AI lab
 <br>
 
 ---
-
-<br>
-
-### Research Interests
-
-My research interests lies at the computer vision and multimodal:
-
-- Video Understanding
-- Vision-Language Representation Learning
 
 <br>
 
