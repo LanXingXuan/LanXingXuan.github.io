@@ -1,21 +1,21 @@
-title: Xinhao Li（李新浩）
+title: Xiangyu Zeng
 # tagline: Don’t dwell on the past.
-description: Don’t dwell on the past.
+description: Just try.
 #Comment out url when working locally to resolve base urls correctly
-url: https://leexinhao.github.io
+url: https://LanXingXuan.github.io
 
 # Owner/author information
 owner:
-  name: Xinhao Li
-  avatar: xinhao.png
+  name: Xiangyu Zeng
+  avatar: NULL
 #  bio:
-  email: xinhaoli00@outlook.com
+  email: XiangyuZeng2001@outlook.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # facebook: caihanlin2002
-  github: leexinhao
+  github: LanXingXuan
   # linkedin: hanlin-cai-07b53b23b
-  scholar: https://scholar.google.com
+  scholar: https://scholar.google.com/citations?user=jS13DXkAAAAJ
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -32,16 +32,12 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
-    url: /
+  #- title: About Me
+  #  url: /
   # - title: Resume
   #   url: /file/Resume-HanlinCAI.pdf
-  - title: Publications
-    url: /publications/
   # - title: Projects
   #   url: /projects/
-  - title: Awards
-    url: /awards/
   # - title: Hobbies
   #   url: /hobbies/
   # - title: Blogs
