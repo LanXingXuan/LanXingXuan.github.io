@@ -42,7 +42,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ### Academic Service
 
-**Journal Reviewer**
+ **Journal Reviewer**
 - IEEE Transactions on Geoscience and Remote Sensing
 
 <br>
@@ -51,7 +51,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ### Awards 
 
-**Honors**
+ **Honors**
 - 2022.10 : **National Scholarship**
 - 2022.10 : First Prize for Studying in Shandong University
 - 2022.10 : Outstanding Students of Shandong University
