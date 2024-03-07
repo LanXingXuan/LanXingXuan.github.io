@@ -27,7 +27,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ### News
 
-- **2024.03:** Build this homepage.
+- **2024.03:** I created this homepage while I was fishing.
 
 <br>
 
