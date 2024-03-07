@@ -14,7 +14,7 @@ I expect to enroll in 2024 fall phd  in **Nanjing University**, supervised by Pr
 <br>
 I am also working as a research intern in [<font color="#006ab1">Shanghai AI lab</font>](https://www.shlab.org.cn/) (2024.01—now).
 <br>
-My research interests lies at the computer vision and multimodal, including Video Understanding and Vision-Language Representation Learning.
+My research interests lies in the computer vision and multimodal, including Video Understanding and Vision-Language Representation Learning.
 
 <br>
 
