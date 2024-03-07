@@ -8,7 +8,7 @@ layout: page
 
 ### Biography
 
-I am a undergraduate student in Shandong University (Major in computer science and technology, GPA: 92.1/100, rank: 3/52). 
+I am a undergraduate student in Shandong University (Major in Artificial Intelligence, GPA: 92.1/100, rank: 3/52). 
 <br>
 I expect to enroll in 2024 fall phd in Nanjing University, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). 
 <br>
