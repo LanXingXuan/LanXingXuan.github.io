@@ -33,8 +33,6 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ---
 
-<br>
-
 ### Publications
 
 - 2023.07 : **Adaptive Edge-aware Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images [[Paper]](https://ieeexplore.ieee.org/abstract/document/10198281/) [[Code]](https://github.com/xumingzhu989/AESINet-TGRS) *in IEEE TGRS (CCF-B, IF=8.2)*** <br>
@@ -50,8 +48,6 @@ My research interests lies in the computer vision and multimodal, including Vide
 <br>
 
 ---
-
-<br>
 
 ### Awards 
 
