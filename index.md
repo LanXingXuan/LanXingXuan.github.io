@@ -53,11 +53,11 @@ My research interests lies in the computer vision and multimodal, including Vide
 
  **Honors**
 - 2023.12 : **Outstanding Graduates of Shandong University**
-- 2023.10 : Academic Scholarship - First Prize (Single year GPA 94.1, ranked 2/52)
 - 2023.10 : **Dean's Scholarship in Shandong University**
+- 2023.10 : Academic Scholarship - First Prize (Single year GPA 94.1, ranked 2/52)
+- 2022.10 : **National Scholarship**
 - 2022.10 : Outstanding Students of Shandong University
 - 2022.10 : Academic Scholarship - First Prize (Single year GPA 93.9, ranked 1/52)
-- 2022.10 : **National Scholarship**
 - 2021.10 : Academic Scholarship - Third Prize (Single year GPA 89.2, ranked 14/52)
 
 
