@@ -52,16 +52,18 @@ My research interests lies in the computer vision and multimodal, including Vide
 ### Awards 
 
  **Honors**
-- 2022.10 : **National Scholarship**
-- 2022.10 : First Prize for Studying in Shandong University
+- 2023.12 : **Outstanding Graduates of Shandong University**
+- 2023.10 : Academic Scholarship - First Prize (Single year GPA 94.1, ranked 2/52)
+- 2023.10 : **Dean's Scholarship in Shandong University**
 - 2022.10 : Outstanding Students of Shandong University
-- 2023.10 : **Dean's Award in Shandong University**
-- 2023.10 : First Prize for Studying in Shandong University
-- 2023.12 : **Outstanding graduates of Shandong University**
+- 2022.10 : Academic Scholarship - First Prize (Single year GPA 93.9, ranked 1/52)
+- 2022.10 : **National Scholarship**
+- 2021.10 : Academic Scholarship - Third Prize (Single year GPA 89.2, ranked 14/52)
+
 
 **Competitions**
-- 2021.09 : **CCF Certified Software Professional (CSP) - Score 370 (Top 1%)**
-- 2021.11 : **The 46th ACM-ICPC Asia Regional Contest (Jinan) - Silver Award**
-- 2021.12 : CCF College Computer Systems & Programming Contest (CCSP) - Bronze Award
-- 2022.04 : The 46th ACM-ICPC Asia Regional Contest (Macau) - Bronze Award
 - 2022.09 : China Undergraduate Mathematical Contest in Modeling - First Prize (Shandong)
+- 2022.04 : The 46th ACM-ICPC Asia Regional Contest (Macau) - Bronze Award
+- 2021.12 : CCF College Computer Systems & Programming Contest (CCSP) - Bronze Award
+- 2021.11 : **The 46th ACM-ICPC Asia Regional Contest (Jinan) - Silver Award**
+- 2021.09 : **CCF Certified Software Professional (CSP) - Score 370 (Top 1%)**
