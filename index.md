@@ -67,4 +67,4 @@ My research interests lies in the computer vision and multimodal, including Vide
 - 2022.04 : The 46th ACM-ICPC Asia Regional Contest (Macau) - Bronze Award
 - 2021.12 : CCF College Computer Systems & Programming Contest (CCSP) - Bronze Award
 - 2021.11 : **The 46th ACM-ICPC Asia Regional Contest (Jinan) - Silver Award**
-- 2021.09 : **CCF Certified Software Professional (CSP) - Score 370 (Top 1%)**
+- 2021.09 : **CCF Certified Software Professional (CSP) - Score 370 (Top 0.98%)**
