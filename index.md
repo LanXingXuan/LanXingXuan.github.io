@@ -20,14 +20,15 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ### Academic Background
 
-- 2020.09 - 2024.06(expected) : Shandong University (Bachelor)
-- 2024.09(expected) - : Nanjing University (PhD)
+- 2020.09 - 2024.06 : Shandong University (B.Eng)
+- 2024.09 (expected) - : Nanjing University (Ph.D)
 
 <br>
 
 ### News
 
-- 2024.03: I created this homepage while I was fishing.
+- 2024.03: I created this homepage while I was slacking off.
+- 2023.07: One paper was accepted by IEEE TGRS.
 
 <br>
 
