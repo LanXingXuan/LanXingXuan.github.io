@@ -8,7 +8,7 @@ layout: page
 
 ### Biography
 
-I received my B.E. degree from Shandong University (Major in Artificial Intelligence, School of Computer Science, GPA: 92.1/100, rank: 3/52). 
+I received my B.Eng degree from Shandong University (Major in Artificial Intelligence, School of Computer Science, GPA: 92.1/100, rank: 3/52). 
 <br>
 I expect to enroll in 2024 fall phd in Nanjing University, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). 
 <br>
