@@ -20,8 +20,8 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ### Academic Background
 
-- 2020.09 - 2024.06 : Shandong University (B.Eng)
-- 2024.09 (expected) - : Nanjing University (Ph.D)
+- 2020.09 - 2024.06 : Shandong University (B.Eng of Artificial Intelligence)
+- 2024.09 (expected) - : Nanjing University (Ph.D of Conputer Science)
 
 <br>
 
@@ -53,7 +53,8 @@ My research interests lies in the computer vision and multimodal, including Vide
 ### Awards 
 
  **Honors**
-- 2023.12 : **Outstanding Graduates of Shandong University**
+- 2024.06 : **Honorary Bachelor's degree from Shandong University**
+- 2023.12 : Outstanding Graduates of Shandong University
 - 2023.10 : **Dean's Scholarship in Shandong University**
 - 2023.10 : Academic Scholarship - First Prize (Single year GPA 94.1, ranked 2/52)
 - 2022.10 : **National Scholarship**
