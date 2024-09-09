@@ -10,7 +10,7 @@ layout: page
 
 I received my B.Eng degree from Shandong University (Major in Artificial Intelligence, School of Computer Science, GPA: 92.1/100, rank: 3/52). 
 <br>
-I expect to enroll in 2024 fall phd in Nanjing University, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). 
+I am a Ph.D student in Nanjing University, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). 
 <br>
 I am also working as a research intern in [Shanghai AI lab](https://www.shlab.org.cn/) (2024.01—now).
 <br>
@@ -21,7 +21,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 ### Academic Background
 
 - 2020.09 - 2024.06 : Shandong University (B.Eng of Artificial Intelligence)
-- 2024.09 (expected) - : Nanjing University (Ph.D of Conputer Science)
+- 2024.09 - now : Nanjing University (Ph.D of Conputer Science)
 
 <br>
 
