@@ -8,11 +8,11 @@ layout: page
 
 ### Biography
 
-I received my B.Eng degree from Shandong University (Major in Artificial Intelligence, School of Computer Science, GPA: 92.1/100, rank: 3/52). 
-<br>
 I am a Ph.D student in Nanjing University, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). 
 <br>
 I am also working as a research intern in [Shanghai AI lab](https://www.shlab.org.cn/) (2024.01—now).
+<br>
+I received my B.Eng degree from Shandong University (Major in Artificial Intelligence, School of Computer Science, GPA: 92.1/100, rank: 3/52). 
 <br>
 My research interests lies in the computer vision and multimodal, including Video Understanding and Vision-Language Representation Learning.
 
