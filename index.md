@@ -36,6 +36,9 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ### Publications
 
+- 2024.10 : **TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning [[Paper]](https://arxiv.org/abs/2410.19702) [[Code]](https://github.com/OpenGVLab/TimeSuite) *in proceedings of the ICLR 2025*** <br>
+**Xiangyu Zeng**, Kunchang Li, Chenting Wang, Xinhao Li, Tianxiang Jiang, Ziang Yan, Songze Li, Yansong Shi, Zhengrong Yue, Yi Wang, Yali Wang, Yu Qiao, Limin Wang*
+
 - 2023.07 : **Adaptive Edge-aware Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images [[Paper]](https://ieeexplore.ieee.org/abstract/document/10198281/) [[Code]](https://github.com/xumingzhu989/AESINet-TGRS) *in IEEE TGRS (CCF-B, IF=8.2)*** <br>
 **Xiangyu Zeng**, Mingzhu Xu*, Yijun Hu, Haoyu Tang, Yupeng Hu, Liqiang Nie
 
