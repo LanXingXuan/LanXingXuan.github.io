@@ -56,6 +56,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 ### Awards 
 
  **Honors**
+- 2024.10 : **President's Special Scholarship in Nanjing University**
 - 2024.06 : **Honorary Bachelor's degree from Shandong University**
 - 2023.12 : Outstanding Graduates of Shandong University
 - 2023.10 : **Dean's Scholarship in Shandong University**
