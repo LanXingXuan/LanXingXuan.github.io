@@ -36,7 +36,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ---
 
-### Publications
+### Selected Publications
 
 - 2024.10 : **TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning [[Paper]](https://arxiv.org/abs/2410.19702) [[Code]](https://github.com/OpenGVLab/TimeSuite) *in proceedings of the ICLR 2025 (CCF-None)*** <br>
 **Xiangyu Zeng**, Kunchang Li, Chenting Wang, Xinhao Li, Tianxiang Jiang, Ziang Yan, Songze Li, Yansong Shi, Zhengrong Yue, Yi Wang, Yali Wang, Yu Qiao, Limin Wang*
