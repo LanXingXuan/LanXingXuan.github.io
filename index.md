@@ -27,6 +27,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ### News
 
+- 2025.02: Two papers was accepted by CVPR 2025.
 - 2025.01: One paper was accepted by ICLR 2025.
 - 2024.03: I created this homepage while I was slacking off.
 - 2023.07: One paper was accepted by IEEE TGRS.
