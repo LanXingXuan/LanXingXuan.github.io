@@ -27,6 +27,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ### News
 
+- 2025.01: One paper was accepted by ICCV 2025.
 - 2025.02: Two papers were accepted by CVPR 2025.
 - 2025.01: One paper was accepted by ICLR 2025.
 - 2024.03: I created this homepage while I was slacking off.
@@ -50,6 +51,9 @@ My research interests lies in the computer vision and multimodal, including Vide
 
  **Journal Reviewer**
 - IEEE Transactions on Geoscience and Remote Sensing
+
+ **Conference Reviewer**
+- NIPS 2025
 
 <br>
 
