@@ -6,6 +6,9 @@ layout: page
 
 <br> 
 
+[You can download my CV here.](https://github.com/LanXingXuan/LanXingXuan.github.io/blob/main/CV/CV_Xiangyu_Zeng.pdf)
+
+
 ### Biography
 
 I am a Ph.D student in Nanjing University, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). 
