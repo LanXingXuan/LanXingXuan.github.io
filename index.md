@@ -30,6 +30,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ### News
 
+- 2025.02: Two papers were accepted by NeurIPS 2025.
 - 2025.07: One paper was accepted by ICCV 2025.
 - 2025.02: Two papers were accepted by CVPR 2025.
 - 2025.01: One paper was accepted by ICLR 2025.
@@ -42,11 +43,14 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ### Selected Publications
 
+- 2025.05 : **StreamForest: Efficient Online Video Understanding with Persistent Event Memory [[Code (coming soon!)]]() *in proceedings of the NeurIPS 2025 Spotlight (CCF-A)*** <br>
+**Xiangyu Zeng\***, Kefan Qiu*, Qingyu Zhang*, Xinhao Li, Jing Wang, Jiaxin Li, Ziang Yan, Kun Tian, Meng Tian, Xinhai Zhao, Yi Wang, Limin Wang†
+
 - 2024.10 : **TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning [[Paper]](https://arxiv.org/abs/2410.19702) [[Code]](https://github.com/OpenGVLab/TimeSuite) *in proceedings of the ICLR 2025 (CCF-None)*** <br>
-**Xiangyu Zeng**, Kunchang Li, Chenting Wang, Xinhao Li, Tianxiang Jiang, Ziang Yan, Songze Li, Yansong Shi, Zhengrong Yue, Yi Wang, Yali Wang, Yu Qiao, Limin Wang*
+**Xiangyu Zeng**, Kunchang Li, Chenting Wang, Xinhao Li, Tianxiang Jiang, Ziang Yan, Songze Li, Yansong Shi, Zhengrong Yue, Yi Wang, Yali Wang, Yu Qiao, Limin Wang†
 
 - 2023.07 : **Adaptive Edge-aware Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images [[Paper]](https://ieeexplore.ieee.org/abstract/document/10198281/) [[Code]](https://github.com/xumingzhu989/AESINet-TGRS) *in IEEE TGRS (CCF-B, IF=8.2)*** <br>
-**Xiangyu Zeng**, Mingzhu Xu*, Yijun Hu, Haoyu Tang, Yupeng Hu, Liqiang Nie
+**Xiangyu Zeng**, Mingzhu Xu†, Yijun Hu, Haoyu Tang, Yupeng Hu, Liqiang Nie
 
 <br>
 
