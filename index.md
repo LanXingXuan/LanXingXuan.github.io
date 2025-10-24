@@ -6,7 +6,7 @@ layout: page
 
 <br> 
 
-**I am actively seeking collaboration opportunities in the field of multimodal video understanding & inference. If you have relevant research interests or research opportunities, please feel free to contact me. [You can download my <span style="color:red">CV</span> here.](https://github.com/LanXingXuan/LanXingXuan.github.io/blob/main/CV_Xiangyu_Zeng_250920.pdf)**
+**[You can download my <span style="color:red">CV</span> here.](https://github.com/LanXingXuan/LanXingXuan.github.io/blob/main/CV_Xiangyu_Zeng_250920.pdf)**
 
 
 ### Biography
