@@ -6,7 +6,7 @@ layout: page
 
 <br> 
 
-**[You can download my <span style="color:red">CV</span> here.](https://github.com/LanXingXuan/LanXingXuan.github.io/blob/main/CV_Xiangyu_Zeng_250920.pdf)**
+**[You can download my <span style="color:red">CV</span> here.](https://github.com/LanXingXuan/LanXingXuan.github.io/blob/main/CV_Xiangyu_Zeng.pdf)**
 
 
 ### Biography
