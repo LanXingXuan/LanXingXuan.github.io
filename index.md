@@ -13,18 +13,16 @@ layout: page
 
 I am a Ph.D student in Nanjing University, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). 
 <br>
-I am also working as a research intern in [Shanghai AI lab](https://www.shlab.org.cn/) (2024.01—now).
+I received my B.Eng degree from Shandong University (School of Computer Science, GPA: 92.1/100, rank: 3/52). 
 <br>
-I received my B.Eng degree from Shandong University (Major in Artificial Intelligence, School of Computer Science, GPA: 92.1/100, rank: 3/52). 
-<br>
-My research interests lies in the computer vision and multimodal, including Video Understanding and Vision-Language Representation Learning.
+My research interests are centered on multimedia processing, particularly in the area of video understanding.
 
 <br>
 
 ### Academic Background
 
-- 2020.09 - 2024.06 : Shandong University (B.Eng of Artificial Intelligence)
-- 2024.09 - now : Nanjing University (Ph.D of Conputer Science)
+- 2020.09 - 2024.06 : Shandong University (B.Eng)
+- 2024.09 - now : Nanjing University (Ph.D)
 
 <br>
 
@@ -61,6 +59,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 
  **Conference Reviewer**
 - NIPS 2025
+- ICLR 2026
 
 <br>
 
@@ -69,6 +68,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 ### Awards 
 
  **Honors**
+- 2024.10 : **National Scholarship**
 - 2024.10 : **President's Special Scholarship in Nanjing University**
 - 2024.06 : **Honorary Bachelor's degree from Shandong University**
 - 2023.12 : Outstanding Graduates of Shandong University
