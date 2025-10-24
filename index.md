@@ -58,7 +58,7 @@ My research interests are centered on multimedia processing, particularly in the
 - IEEE Transactions on Geoscience and Remote Sensing
 
  **Conference Reviewer**
-- NIPS 2025
+- NeurIPS 2025
 - ICLR 2026
 
 <br>
