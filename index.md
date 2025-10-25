@@ -68,7 +68,7 @@ My research interests are centered on multimedia processing, particularly in the
 ### Awards 
 
  **Honors**
-- 2024.10 : **National Scholarship**
+- 2025.10 : **National Scholarship**
 - 2024.10 : **President's Special Scholarship in Nanjing University**
 - 2024.06 : **Honorary Bachelor's degree from Shandong University**
 - 2023.12 : Outstanding Graduates of Shandong University
