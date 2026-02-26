@@ -28,6 +28,7 @@ My research interests are centered on multimedia processing, particularly in the
 
 ### News
 
+- 2026.01: Four papers were accepted by ICLR 2026.
 - 2025.09: Two papers were accepted by NeurIPS 2025 (including a spotlight).
 - 2025.07: One paper was accepted by ICCV 2025.
 - 2025.02: Two papers were accepted by CVPR 2025.
@@ -55,11 +56,13 @@ My research interests are centered on multimedia processing, particularly in the
 ### Academic Service
 
  **Journal Reviewer**
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
 - IEEE Transactions on Geoscience and Remote Sensing
 
  **Conference Reviewer**
-- NeurIPS 2025
-- ICLR 2026
+ - ICML 2026
+ - ICLR 2026
+ - NeurIPS 2025
 
 <br>
 
