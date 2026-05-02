@@ -64,7 +64,9 @@ My research interests are centered on multimedia processing, particularly in the
 - IEEE Transactions on Geoscience and Remote Sensing
 
  **Conference Reviewer**
+ - ECCV 2026
  - ICML 2026
+ - CVPR 2026
  - ICLR 2026
  - NeurIPS 2025
 
