@@ -28,6 +28,7 @@ My research interests are centered on multimedia processing, particularly in the
 
 ### News
 
+- 2026.05: Three papers were accepted by ICML 2026.
 - 2026.01: Four papers were accepted by ICLR 2026.
 - 2025.09: Two papers were accepted by NeurIPS 2025 (including a spotlight).
 - 2025.07: One paper was accepted by ICCV 2025.
@@ -42,13 +43,16 @@ My research interests are centered on multimedia processing, particularly in the
 
 ### Selected Publications
 
+- 2026.01 : **StreamForest: Efficient Online Video Understanding with Persistent Event Memory [[Paper]](https://arxiv.org/abs/2601.23224) [[Code]](https://github.com/MCG-NJU/Video-o3) *in proceedings of the ICML 2026 (CCF-A)*** <br>
+**Xiangyu Zeng\***, Zhiqiu Zhang\*, Yuhan Zhu\*, Xinhao Li\*, Zikang Wang\*, Changlian Ma, Qingyu Zhang, Zizheng Huang, Kun Ouyang, Tianxiang Jiang, Ziang Yan, Yi Wang, Hongjie Zhang, Yali Wang, Limin Wang†
+
 - 2025.05 : **StreamForest: Efficient Online Video Understanding with Persistent Event Memory [[Paper]](https://arxiv.org/pdf/2509.24871) [[Code]](https://github.com/MCG-NJU/StreamForest) *in proceedings of the NeurIPS 2025 <span style="color:red">Spotlight</span> (CCF-A)*** <br>
 **Xiangyu Zeng\***, Kefan Qiu\*, Qingyu Zhang\*, Xinhao Li, Jing Wang, Jiaxin Li, Ziang Yan, Kun Tian, Meng Tian, Xinhai Zhao, Yi Wang, Limin Wang†
 
-- 2024.10 : **TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning [[Paper]](https://arxiv.org/abs/2410.19702) [[Code]](https://github.com/OpenGVLab/TimeSuite) *in proceedings of the ICLR 2025 (CCF-None)*** <br>
+- 2024.10 : **TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning [[Paper]](https://arxiv.org/abs/2410.19702) [[Code]](https://github.com/OpenGVLab/TimeSuite) *in proceedings of the ICLR 2025 (CCF-A)*** <br>
 **Xiangyu Zeng**, Kunchang Li, Chenting Wang, Xinhao Li, Tianxiang Jiang, Ziang Yan, Songze Li, Yansong Shi, Zhengrong Yue, Yi Wang, Yali Wang, Yu Qiao, Limin Wang†
 
-- 2023.07 : **Adaptive Edge-aware Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images [[Paper]](https://ieeexplore.ieee.org/abstract/document/10198281/) [[Code]](https://github.com/xumingzhu989/AESINet-TGRS) *in IEEE TGRS (CCF-B, IF=8.2)*** <br>
+- 2023.07 : **Adaptive Edge-aware Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images [[Paper]](https://ieeexplore.ieee.org/abstract/document/10198281/) [[Code]](https://github.com/xumingzhu989/AESINet-TGRS) *in IEEE TGRS (CCF-B)*** <br>
 **Xiangyu Zeng**, Mingzhu Xu†, Yijun Hu, Haoyu Tang, Yupeng Hu, Liqiang Nie
 
 <br>
