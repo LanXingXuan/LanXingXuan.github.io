@@ -43,7 +43,7 @@ My research interests are centered on multimedia processing, particularly in the
 
 ### Selected Publications
 
-- 2026.01 : **StreamForest: Efficient Online Video Understanding with Persistent Event Memory [[Paper]](https://arxiv.org/abs/2601.23224) [[Code]](https://github.com/MCG-NJU/Video-o3) *in proceedings of the ICML 2026 (CCF-A)*** <br>
+- 2026.01 : **Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning [[Paper]](https://arxiv.org/abs/2601.23224) [[Code]](https://github.com/MCG-NJU/Video-o3) *in proceedings of the ICML 2026 (CCF-A)*** <br>
 **Xiangyu Zeng\***, Zhiqiu Zhang\*, Yuhan Zhu\*, Xinhao Li\*, Zikang Wang\*, Changlian Ma, Qingyu Zhang, Zizheng Huang, Kun Ouyang, Tianxiang Jiang, Ziang Yan, Yi Wang, Hongjie Zhang, Yali Wang, Limin Wang†
 
 - 2025.05 : **StreamForest: Efficient Online Video Understanding with Persistent Event Memory [[Paper]](https://arxiv.org/pdf/2509.24871) [[Code]](https://github.com/MCG-NJU/StreamForest) *in proceedings of the NeurIPS 2025 <span style="color:red">Spotlight</span> (CCF-A)*** <br>
