@@ -13,15 +13,13 @@ layout: page
 
 I am a Ph.D student in Nanjing University, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). Previously, I served as a Research Intern at Shanghai AI Lab, where I worked closely with [*<font color="#006ab1">Kunchang Li</font>*](https://scholar.google.com/citations?user=D4tLSbsAAAAJ&hl=en&oi=ao) and [*<font color="#006ab1">Xinhao Li</font>*](https://scholar.google.com/citations?user=evR3uR0AAAAJ&hl=en&oi=ao).
 <br>
-I received my B.Eng degree from Shandong University (School of Computer Science, GPA: 92.1/100, rank: 3/52). 
-<br>
 My research interests are centered on multimedia processing, particularly in the area of video understanding.
 
 <br>
 
 ### Academic Background
 
-- 2020.09 - 2024.06 : Shandong University (B.Eng)
+- 2020.09 - 2024.06 : Shandong University (B.Eng, School of Computer Science, GPA: 92.1/100, rank: 3/52)
 - 2024.09 - now : Nanjing University (Ph.D)
 
 <br>
