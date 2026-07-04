@@ -11,7 +11,7 @@ layout: page
 
 ### Biography
 
-I am a Ph.D student in Nanjing University, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). Previously, I served as a Research Intern at Shanghai AI Lab, where I worked closely with [*<font color="#006ab1">Kunchang Li</font>*](https://scholar.google.com/citations?user=D4tLSbsAAAAJ&hl=en&oi=ao) and [*<font color="#006ab1">Xinhao Li</font>*](https://scholar.google.com/citations?user=evR3uR0AAAAJ&hl=en&oi=ao). I am currently interning at JD Explore Academy through the TGT Program, advised by [Qingyi Si](https://phoebussi.github.io/), [Jiaqi Wang](https://scholar.google.com/citations?user=GDvt570AAAAJ&hl=zh-CN) and [Nan Duan](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en).
+I am a Ph.D student in Nanjing University, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). Previously, I served as a Research Intern at Shanghai AI Lab, where I worked closely with [*<font color="#006ab1">Kunchang Li</font>*](https://scholar.google.com/citations?user=D4tLSbsAAAAJ&hl=en&oi=ao) and [*<font color="#006ab1">Xinhao Li</font>*](https://scholar.google.com/citations?user=evR3uR0AAAAJ&hl=en&oi=ao). I am currently interning at JD Explore Academy through the TGT Program, advised by [*<font color="#006ab1">Qingyi Si</font>*](https://phoebussi.github.io/), [*<font color="#006ab1">Jiaqi Wang</font>*](https://scholar.google.com/citations?user=GDvt570AAAAJ&hl=zh-CN) and [*<font color="#006ab1">Nan Duan</font>*](https://scholar.google.com/citations?user=Qaa6OxIAAAAJ&hl=en).
 <br>
 My research interests are centered on multimedia processing, particularly in the area of video understanding.
 
