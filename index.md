@@ -55,6 +55,16 @@ My research interests are centered on multimedia processing, particularly in the
 
 <br>
 
+### Technical Report
+
+- 2026.07 : **VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding [[Paper]](https://arxiv.org/abs/2607.14935) [[Code]](https://github.com/MCG-NJU/VideoChat3)** <br>
+Xinhao Li\*, Yuhan Zhu\*, **Xiangyu Zeng\***, Yuhao Dong\*, Haoning Wu\*, Zhiqiu Zhang\*, Yuandong Yang, Changlian Ma, Qingyu Zhang, Yansong Shi, Xinyu Chen, Haoran Chen, Zizheng Huang, Jun Zhang, Kun Ouyang, Lin Sui, Ziang Yan, Yicheng Xu, Chenting Wang, Yinan He, Hongjie Zhang, Yi Wang, Yu Qiao, Yali Wang, Ziwei Liu, Kai Chen, Limin Wang†
+
+- 2026.06 : **JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence [[Paper]](https://arxiv.org/abs/2606.14777) [[Code]](https://github.com/jd-opensource/JoyAI-VL-Interaction)** <br>
+Dingyu Yao\*, Junhao Zhou\*, Chenxu Yang\*, Chuanyu Qin\*, **Xiangyu Zeng\***, Yifei Li\*, Haowen Hou\*, Zheming Liang, Congcong Wang, Kaiwen Tuo, Jun Zhang, Yuhan Zhu, Yuhang Cao, Shenglong Ye, Shuai Xie, Shuhuan Gu, Haoyang Huang, Qingyi Si\*, Nan Duan†, Jiaqi Wang†
+
+<br>
+
 ### Academic Service
 
  **Journal Reviewer**
